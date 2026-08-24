@@ -1,0 +1,4 @@
+interface:
+  display_name: "Naver Review Pipeline V2"
+  short_description: "네이버 검색·AI 브리핑 노출 품질까지 점검하는 리뷰 V2"
+  default_prompt: "Use $naver-review-pipeline-v2 to create an evidence-first Naver review with search-intent planning, audited claims, media mapping, and campaign-compliant HTML."

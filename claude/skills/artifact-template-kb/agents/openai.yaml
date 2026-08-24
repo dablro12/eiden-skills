@@ -1,0 +1,7 @@
+interface:
+  display_name: "KB 청년 위시리스트 슬라이드 비주얼"
+  short_description: "Create images with the KB 청년 위시리스트 슬라이드 비주얼 template"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-kb to create an image with this template."
+policy:
+  allow_implicit_invocation: true
